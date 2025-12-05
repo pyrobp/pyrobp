@@ -3,8 +3,6 @@
 Ingeniero de software, curioso por naturaleza y amante de la informática en general.  
 Me interesa especialmente todo lo relacionado con **backend**, **APIs**, **full stack**, bases de datos, seguridad y despliegue en la nube.
 
-> 💬 Amigable, siempre intentando aprender algo nuevo y mejorar un poco cada día.
-
 ---
 
 ## 🧑‍💻 Sobre mí
@@ -65,10 +63,8 @@ Me interesa especialmente todo lo relacionado con **backend**, **APIs**, **full 
 
 ## 📊 GitHub Stats
 
-> 🔁 Recuerda cambiar `<tu-usuario>` por tu usuario real de GitHub.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<tu-usuario>&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<tu-usuario>&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyrobp&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrobp&layout=compact&theme=transparent)
 
 ---
 
