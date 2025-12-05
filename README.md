@@ -61,13 +61,6 @@ Me interesa especialmente todo lo relacionado con **backend**, **APIs**, **full 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyrobp&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyrobp&layout=compact&theme=transparent)
-
----
-
 ## 🌐 Idiomas
 
 - 🇪🇸 Español — nativo
